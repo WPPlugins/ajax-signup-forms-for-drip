@@ -1,0 +1,20 @@
+.yk-ds-dialog-loader
+{
+	padding: 7px 20px 7px 20px;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	background-image: url('images/ajax-loader-white.gif');
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 32px;
+	width: 32px;
+	margin-bottom:10px;
+	
+}
+.yk-ds-hide, .yk-ds-hide-form
+{
+	display: none;
+}
+.haha {
+	border: 1px solid red;
+}
